@@ -1,0 +1,6 @@
+
+uploads/*
+!uploads/.gitkeep
+.env
+test_db.php
+/nbproject/private/
